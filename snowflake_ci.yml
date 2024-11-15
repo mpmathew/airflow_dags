@@ -5,6 +5,6 @@ TAGS:
   - "mpmathew"
   - "objects"
   - "dynamic"
-# SCHEMAS:
-#   - "SCHEMA_A"
-#   - "SCHEMA_B"
+SCHEMAS:
+  - "SCHEMA_A"
+  - "SCHEMA_B"
